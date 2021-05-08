@@ -1,4 +1,4 @@
-# SortierAlgorithmen 
+# Sortieralgorithmen 
 
 Implementierung von:
 
