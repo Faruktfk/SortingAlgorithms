@@ -2,10 +2,10 @@
 
 Implementierung von:
 
-BubbleSort
-GnomSort
-MergeSort
-QuickSort
-ShakerSort
-StraightInsertion
+BubbleSort, 
+GnomSort, 
+MergeSort, 
+QuickSort, 
+ShakerSort, 
+StraightInsertion, 
 StraightSelection
